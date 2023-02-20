@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Niklas Kleiser</h1>
-- 🌱 I’m currently learning **for my bachelor of science degree in informatics at Ravensburg-Weingarten University**
 
-- 👨‍💻 My portfolio page [https://niklas-kleiser.netlify.app/](https://niklas-kleiser.netlify.app/)
+- 🌱 I’m currently learning for my bachelor of science degree in informatics at Ravensburg-Weingarten University
+
+- [👨‍💻 My portfolio page](https://niklas-kleiser.netlify.app/)
 
 - 📫 How to reach me **niklas.kleiser@web.de**
 
