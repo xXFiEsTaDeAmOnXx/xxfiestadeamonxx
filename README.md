@@ -6,9 +6,9 @@
 
 - 📫 How to reach me [E-Mail](mailto:niklas.kleiser@web.de)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxfiestadeamonxx&show_icons=true&locale=en&layout=compact" alt="xxfiestadeamonxx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxfiestadeamonxx&show_icons=true&locale=en&layout=compact&count_private=true&theme=dracula" alt="xxfiestadeamonxx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxfiestadeamonxx&show_icons=true&locale=en" alt="xxfiestadeamonxx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxfiestadeamonxx&show_icons=true&locale=en&count_private=true&theme=dracula" alt="xxfiestadeamonxx" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
