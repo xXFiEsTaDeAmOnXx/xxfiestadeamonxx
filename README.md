@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niklas Kleiser</h1>
 
-- 🌱 I’m currently learning for my bachelor of science degree in informatics at Ravensburg-Weingarten University
+- 🌱 I’m currently learning for my master of science degree in informatics at Ravensburg-Weingarten University
 
-- [👨‍💻 My portfolio page](https://niklas-kleiser.netlify.app/)
-
-- 📫 How to reach me [E-Mail](mailto:niklas.kleiser@web.de)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxfiestadeamonxx&show_icons=true&locale=en&layout=compact&count_private=true&theme=buefy" alt="xxfiestadeamonxx" /></p>
 
