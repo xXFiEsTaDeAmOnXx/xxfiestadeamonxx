@@ -10,12 +10,11 @@
 </pre>
 
 
-- 🤵 Name: Niklas Kleiser
 - 🎓 Studies: M.Sc. Informatics @ RWU
 - 🐧 OS: Arch Linux
 - 💻 WM: Hyprland
 - 💡 Editor: Neovim
-- 🔧 Hobby: Tinkering
+- 🔧 Hobby: Tinkering, Fitness
 
 
 
