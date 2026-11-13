@@ -50,3 +50,6 @@
 <a href="https://linkedin.com/in/niklas-kleiser-586aa3223">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://huggingface.co/xXFiEsTaDeAmOnXx">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</a>
